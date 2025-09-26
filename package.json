@@ -1,0 +1,14 @@
+{
+  "name": "bot2-crash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.2",
+    "express": "^4.18.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
